@@ -1,6 +1,6 @@
 Name:		texlive-stanli
 Version:	54512
-Release:	1
+Release:	2
 Summary:	TikZ Library for Structural Analysis
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stanli
