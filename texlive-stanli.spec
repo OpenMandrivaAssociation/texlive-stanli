@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	TikZ Library for Structural Analysis
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stanli
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stanli
 License:	gpl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stanli.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stanli.doc.r%{version}.tar.xz
